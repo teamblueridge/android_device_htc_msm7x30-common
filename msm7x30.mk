@@ -38,6 +38,7 @@ PRODUCT_PACKAGES += \
     libOmxCore \
     libOmxVenc \
     libOmxVdec \
+    LegacyCamera \
     com.android.future.usb.accessory
 
 # we have enough storage space to hold precise GC data
